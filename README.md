@@ -9,3 +9,8 @@ necesarios para esto.
 # Herramientas
 - Express
 - Mongoose
+
+# Getting Started
+Para inicializar la base de datos ejecutar el comando ```npm run init-db``` .
+
+Para iniciar el proyecto ejecutar el comando ```npm start```, que se ejecutará en ``` http://localhost:3000/ ```
